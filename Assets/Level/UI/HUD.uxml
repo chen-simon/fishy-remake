@@ -1,0 +1,5 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 0; width: 516px; height: 132px; background-color: rgb(255, 0, 0); background-size: 100% 100%; min-height: auto; opacity: 1;">
+        <ui:Label text="Label" style="font-size: 36px;"/>
+    </ui:VisualElement>
+</ui:UXML>
